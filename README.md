@@ -10,7 +10,5 @@ How to reach me is https://www.linkedin.com/in/vienamorvallesteros/ 
 📚 
 If you're looking for blogs, & hands-on technical training, check out https://synacksyndicate.gitbook.io/whoami/ 
 <br/> 
-🏫  
+🏫
 College work and samples will be @ https://synacksyndicate.gitbook.io/college/
-
-
