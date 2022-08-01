@@ -10,9 +10,9 @@ I’m looking to collaborate with like minded individuals who are new to cyberse
 How to reach me is https://www.linkedin.com/in/vienamorvallesteros/ 
 <br/> 
 📚 
-If you're looking for blogs, & hands-on technical training, check out https://synacksyndicate.gitbook.io/whoami/ 
+If you're looking for blogs, & hands-on technical training, check out https://securitybreach.blog/
 <br/> 
-🎓  College work and samples will be @ https://synacksyndicate.gitbook.io/college/
+🎓  College work and samples will be @ https://securitysyndicate.gitbook.io/college/
 
 
 
