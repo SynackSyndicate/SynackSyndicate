@@ -8,11 +8,11 @@ I’m looking to collaborate with like minded individuals who are new to cyberse
 # Connect with me
 
 📫 
-How to reach me is 
+How to reach me is https://www.linkedin.com/in/vienamorvallesteros
 <br/> 
 
 <br/> 
-🎓  College work and samples will be <a href="[URL](https://securitysyndicate.gitbook.io/college/)"><img src="[URL](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+🎓  College work and samples will be <a href="(https://securitysyndicate.gitbook.io/college/)"><img src="(https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
 )"> </a> 
 <br/>
 📚 My current notion projects and roadmaps! https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc
