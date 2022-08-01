@@ -13,6 +13,6 @@ How to reach me is https://www.linkedin.com/in/vienamorvallesteros/ 
 If you're looking for blogs, & hands-on technical training, check out https://securitybreach.blog/
 <br/> 
 🎓  College work and samples will be @ https://securitysyndicate.gitbook.io/college/
-
-
+<br/>
+My current notion projects and roadmaps! https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc
 
