@@ -1,18 +1,19 @@
 # Hey there, Welcome to my Github!
 
-👋  Hi, I’m @SynackSyndicate
+👋  Hi, I’m Vien <br/>
 I'm new to using GitHub. As a matter of fact GitHub has always intimidated me. I figured you would have to be 'big brained, 200 IQ' to post here or be apart of the community. Hopefully I'm cool enough to hang out here and make something for myself. Primarily I am going to be using GitHub as a platform to document, create opinionated posts about experiences, and to blog about my journey breakiing into CyberSecurity. <br/> <br/>
 Currently I'm working towards my Bachelors in CyberSecurity while supplementing other supporting hands-on-labs like TryHackMe, RangeForce, BTLO, INE, and AttackIQ. <br/>
 I’m looking to collaborate with like minded individuals who are new to cybersecurity and professionals who are in it.
 
 # Connect with me
+
 📫 
-How to reach me is https://www.linkedin.com/in/vienamorvallesteros/ 
+How to reach me is <a href="://www.linkedin.com/in/vienamorvallesteros/ "></a> 
+<a href="LinkedIn"></a>
 <br/> 
-📚 
-If you're looking for blogs, & hands-on technical training, check out https://securitybreach.blog/
+
 <br/> 
 🎓  College work and samples will be @ https://securitysyndicate.gitbook.io/college/
 <br/>
-My current notion projects and roadmaps! https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc
+📚 My current notion projects and roadmaps! https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc
 
