@@ -8,8 +8,8 @@ I’m looking to collaborate with like minded individuals who are new to cyberse
 # Connect with me
 
 📫 
-How to reach me is <a href="https://www.linkedin.com/in/vienamorvallesteros/ "></a> 
-<a href="LinkedIn"></a>
+How to reach me is <a href="LinkedIn"></a> 
+<a href="[LinkedIn](https://www.linkedin.com/in/vienamorvallesteros/)"></a>
 <br/> 
 
 <br/> 
