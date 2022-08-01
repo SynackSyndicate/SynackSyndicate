@@ -9,7 +9,7 @@ I’m looking to collaborate with like minded individuals who are new to cyberse
 
 📫 
 How to reach me is <a href="LinkedIn"></a> 
-<a href="[LinkedIn](https://www.linkedin.com/in/vienamorvallesteros/)"></a>
+<a href="https://www.linkedin.com/in/vienamorvallesteros/"></a>
 <br/> 
 
 <br/> 
