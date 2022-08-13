@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Python, Cyber Intelligence, Tableau**
 
-- 📫 How to reach me **vienamorv@protonmail.com**
+- 📫 How to reach me [Email](vienamorv@protonmail.com)
 
 - ⚡ Fun fact **Loves to go to the gym, amateur boxer/muay thai figher.**
 <br/>
