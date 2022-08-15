@@ -2,9 +2,11 @@
 <h1 align="center">Hey there, Welcome to my Github!</h1>
 <h3 align="center">Passionate Cybersecurity Professional. Slowly progressing through the land of Git; so bear with the noobishness. Primarily I am going to be using GitHub as a platform to document, create opinionated posts about experiences, and to blog about my journey breakiing into CyberSecurity. Currently I'm working towards my Bachelors in CyberSecurity while supplementing other supporting hands-on-labs like TryHackMe, RangeForce, BTLO, INE, and AttackIQ. I’m looking to collaborate with like minded individuals who are new to cybersecurity and professionals who are in it.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif">
+
 
 <h2 align="left"> Blogs, Writeups, Posts</h2>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif">
 
 - 📘 Here is my work revolving BlueTeam [BlueTeam Writeups & Blogs](https://securitysyndicate.gitbook.io/whoami/)
 
