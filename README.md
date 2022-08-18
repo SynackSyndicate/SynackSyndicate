@@ -14,7 +14,7 @@
 
 - 🎒 My school work and notes [SchoolNotes](https://securitysyndicate.gitbook.io/college/)
 
-- 📝 I regularly write articles on [https://synacksyndicate.github.io/](https://synacksyndicate.github.io/)
+- 📝 I regularly write articles on [Website](https://synacksyndicate.github.io/)
 
 - 🌱 I’m currently learning **Python, Cyber Intelligence, Tableau**
 
