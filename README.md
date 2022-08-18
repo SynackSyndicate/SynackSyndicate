@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif">
 
-- 📘 Here is my work revolving BlueTeam [BlueTeam Writeups & Blogs](https://securitysyndicate.gitbook.io/whoami/)
+- 📘 Here is my work revolving around BlueTeam [BlueTeam Writeups & Blogs](https://securitysyndicate.gitbook.io/whoami/)
 
 - 🔭 A few RedTeam Observations [RedTeam Research](https://securitysyndicate.gitbook.io/1337h4x0r/)
 
