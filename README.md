@@ -38,7 +38,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/vienamorvallesteros"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
-<a href="https://securitysyndicate.gitbook.io/college/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> </a> 
 <a href="https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </a> 
 
 
