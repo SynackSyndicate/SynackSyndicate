@@ -14,7 +14,7 @@
 
 - 🎒 My school work and notes [SchoolNotes](https://securitysyndicate.gitbook.io/college/)
 
-- 📝 I regularly write articles on [Website](https://synacksyndicate.github.io/)
+- 📝 I've built a hugo website using the CLI which I'm pretty proud of [Website](https://synacksyndicate.github.io/) However, most of my work can be found in the links above :D
 
 - 🌱 I’m currently learning **Python, Cyber Intelligence, Tableau**
 
