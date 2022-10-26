@@ -41,6 +41,9 @@
 <a href="https://www.notion.so/b8506f91c9fd4ebc949c20402393236e?v=9876dcadb29b4956a057749c0ce0fccc"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synacksyndicate&show_icons=true&locale=en&layout=compact" alt="synacksyndicate" /></p>
+<p><img align="right" height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=synacksyndicate&show_icons=true&locale=en&layout=compact" alt="synacksyndicate" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=synacksyndicate&show_icons=true&locale=en" alt="synacksyndicate" /></p>
+<p>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=synacksyndicate&show_icons=true&locale=en" alt="synacksyndicate" />
+</p>
