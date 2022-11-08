@@ -1,6 +1,6 @@
 ![MasterHead](https://media1.giphy.com/channel_assets/charlos_/EwtlNE0w0jqB.gif)
 <h1 align="center">Hey there, Welcome to my Github!</h1>
-<h3 align="center">Passionate Cybersecurity Professional. Slowly progressing through the land of Git; so bear with the noobishness. Primarily I am going to be using GitHub as a platform to document, create opinionated posts about experiences, and to blog about my journey breakiing into CyberSecurity. Currently I'm working towards my Bachelors in CyberSecurity while supplementing other supporting hands-on-labs like TryHackMe, RangeForce, BTLO, INE, and AttackIQ. I’m looking to collaborate with like minded individuals who are new to cybersecurity and professionals who are in it.</h3>
+<h3 align="center">Passionate Cybersecurity Professional. Slowly progressing through the land of Git; so bear with the noobishness. Primarily I am going to be using GitHub as a platform to document, create opinionated posts about experiences, and to blog about my journey breakiing into CyberSecurity. Currently I'm working towards my Bachelors in CyberSecurity while supplementing other supporting hands-on-labs like TryHackMe, BTLO, and some coding languages varying from my GoLang projects, Python experiences, BASH, and SQL. I’m looking to collaborate with like minded individuals who are new to cybersecurity and professionals who are in it.</h3>
 
 
 
@@ -16,7 +16,7 @@
 
 - 📝 I've built a hugo website using the CLI which I'm pretty proud of [Website](https://synacksyndicate.github.io/) However, most of my work can be found in the links above :D
 
-- 🌱 I’m currently learning **Python, Cyber Intelligence, Tableau**
+- 🌱 I’m currently learning **GoLang, Python, BASH, SQL, Cyber Intelligence, Tableau**
 
 - ⚡ Fun fact **Loves to go to the gym, amateur boxer/muay thai figher.**
 <br/>
